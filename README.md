@@ -18,19 +18,6 @@ A **Python & Streamlit app** to analyze your WhatsApp chat exports. Get insights
 
 ## **Demo**
 
-[Insert your deployed Streamlit app link here]  
+[[Insert your deployed Streamlit app link here](https://whatapp-chattabreadme-ov-file-9aq4bgrwwadnv9bddzkmgt.streamlit.app/)]  
 
 ---
-
-## **Screenshots**
-
-![App Screenshot](screenshot(7).png)
-![App Screenshot](screenshot(8).png)
-![App Screenshot](screenshot(9).png)
-![App Screenshot](screenshot(10).png)
-![App Screenshot](screenshot(11).png)
-![App Screenshot](screenshot(12).png)
-![App Screenshot](screenshot(13).png)
-![App Screenshot](screenshot(14).png)
-![App Screenshot](screenshot(15).png)
-![App Screenshot](screenshot(16).png)
